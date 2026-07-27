@@ -1,1 +1,9 @@
-
+Release Notes:
+---------------
+v26.0.0
+NOTES:
+-Added a loadingscreen
+-Added a setup screen
+Released on: 27 July 2026 21:50
+Released by: creatorjakai
+---------------
