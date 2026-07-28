@@ -1,9 +1,15 @@
 Release Notes:
 ---------------
+v26.0.1 BETA
+NOTES:
+-Added a choose your name screen
+Released on: 28 July 2026 22:47 UTC/GMT +2 hours
+Released by: creatorjakai
+---------------
 v26.0.0
 NOTES:
 -Added a loadingscreen
 -Added a setup screen
-Released on: 27 July 2026 21:50
+Released on: 27 July 2026 21:50 UTC/GMT +2 hours
 Released by: creatorjakai
 ---------------
