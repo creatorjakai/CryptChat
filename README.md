@@ -6,4 +6,4 @@ You can also connect your server to the CryptNetwork (this is also a feature tha
 
 I try to do daily updates
 
-NOTE: You have to install pygame for this program to work
+NOTE: You have to install pygame for this program to work or you have to download te LITE versions
