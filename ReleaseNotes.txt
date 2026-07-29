@@ -1,5 +1,12 @@
 Release Notes:
 ---------------
+v26.0.2
+NOTES:
+-Added new assets
+-Added new button effect
+Released on: 29 July 2026 14:03 UTC/GMT +2 hours
+Released by: creatorjakai
+---------------
 v26.0.1
 NOTES:
 -Added a choose your name screen
