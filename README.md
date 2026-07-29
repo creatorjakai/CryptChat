@@ -5,3 +5,5 @@ You can host your own server to chat with your friends and other people (this is
 You can also connect your server to the CryptNetwork (this is also a feature that is coming in the future)
 
 I try to do daily updates
+
+NOTE: You have to install pygame for this program to work
